@@ -1,4 +1,4 @@
-## Hi there 👋
+I am making changes to my GitHub README!
 
 <!--
 **jayifroneu/jayifroneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
