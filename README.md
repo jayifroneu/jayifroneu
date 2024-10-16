@@ -1,5 +1,8 @@
 I am making changes to my GitHub README!
 
+Now, on the resume branch, I'm adding a resume.
+
+I go to **Northeastern University**.
 <!--
 **jayifroneu/jayifroneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
